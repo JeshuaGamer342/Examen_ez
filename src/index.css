@@ -68,7 +68,7 @@
     @apply text-white/70 text-sm font-medium;
     transition: color 0.2s ease;
   }
-  .nav-link:hover { color: #c084fc; }
+  .nav-link:hover { color: #22d3ee; }
 
   /* ================================================
      LOGIN
